@@ -2,6 +2,8 @@
 
 > A lightweight animated desktop companion that lives on your screen, walks edge to edge, and uses under 50MB of RAM. Fully custom character. No launcher. Auto starts on boot. Completely free.
 
+
+
 ![DesktopMate Demo](demo.gif)
 
 ---
@@ -136,28 +138,19 @@ This repository does not include any copyrighted characters. The default charact
 
 **Third Party Characters**
 Do not use characters from copyrighted franchises (anime, games, movies, etc.) in public releases or commercial projects without permission from the rights holder. Using them privately on your own PC is generally fine but distributing them is not.
+The developer is not responsible for any copyright claims arising 
+from characters used by end users. Users are solely responsible 
+for ensuring they have the right to use any character sprites 
+they upload to this application.
 
 **No Liability**
 This software is provided as-is for personal use. The developer is not responsible for any issues arising from use of this software including but not limited to productivity loss from having a cute character on your screen.
 
 **Not Affiliated**
-DesktopMate is an independent open source project. It is not affiliated with, endorsed by, or connected to any existing desktop companion software, anime studio, or game publisher.
+This is an independent open source project. It is not affiliated with, endorsed by, or connected to any existing desktop companion software, anime studio, or game publisher.
 
 ---
 
-## 🤝 Contributing
-
-Found a bug? Have a feature idea? Open an issue or submit a pull request. All contributions welcome.
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
-
-> If you use this in your own project a credit or star would be appreciated but is not required.
-
----
 
 ## 🎬 See It in Action
 
@@ -166,3 +159,5 @@ Full build video on YouTube → [RuntimeRiot](https://youtube.com/@runtimeriot)
 ---
 
 *Built by a CS student who was tired of boring desktop companions and had an all nighter to spare.*
+
+If you use this in your own project a credit or star would be appreciated but is not required.
